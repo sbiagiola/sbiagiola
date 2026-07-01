@@ -1,4 +1,4 @@
-# Hi, I'm Claudio Sebastián Biagiola 👋
+# Hi, I'm Sebastian Biagiola 👋
 
 Electronic Engineer and AI Specialist focused on **Embedded Software**, **Computer Vision**, **Edge AI** and **MLOps**.
 
